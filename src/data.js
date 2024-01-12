@@ -83,10 +83,23 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "HTML",
+  "CSS",
+  "Git",
   "JavaScript",
   "React",
   "Next.js",
   "Node",
+  "Express",
+  "MySQL",,
+  "NoSQL",
   "GraphQL",
   "Material UI",
+];
+
+export const working = [
+  "VCU Engineering Program",
+  "Master SCRUM Certification",
+  "Python Certification",
+  "FreeCodeCamp.com Certification",
 ];
