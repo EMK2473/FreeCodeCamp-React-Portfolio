@@ -1,4 +1,4 @@
-import { AcademicCapIcon, BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
+import { AcademicCapIcon, BadgeCheckIcon } from "@heroicons/react/solid";
 import React from "react";
 import { working } from "../data";
 

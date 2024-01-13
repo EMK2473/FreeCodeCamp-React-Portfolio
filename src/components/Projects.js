@@ -12,9 +12,8 @@ export default function Projects() {
           Apps I've Built
         </h1>
         <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-          facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-          fuga dolore.
+          I started the Full Stack Web Development Bootcamp without any prior experience in coding or software in August, 2023.
+          These Applications demonstrate my growth as a Web Developer.
         </p>
       </div>
       <div className="flex flex-wrap -m-4">

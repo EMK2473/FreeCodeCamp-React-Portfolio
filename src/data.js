@@ -1,12 +1,4 @@
 export const projects = [
-  // {
-  //   title: "Password Generator",
-  //   subtitle: "Learning JavaScript Functions",
-  //   description:
-  //     "A Random Password Generator.",
-  //   image: "./project-1.gif",
-  //   link: "https://emk2473.github.io/password-generator/",
-  // },
   {
     title: "JavaScript Quiz",
     subtitle: "JavaScript Quiz",
@@ -31,14 +23,22 @@ export const projects = [
     image: "./5dayGIF.gif",
     link: "https://emk2473.github.io/weather-forecast/",
   },
-  // {
-  //   title: "Inventory Management System",
-  //   subtitle: "IMS",
-  //   description:
-  //     "An inventory management database for companies to manage their inventory through users providing live an up-to-date inventory information.",
-  //   image: "./project-4.gif",
-  //   link: "https://inv-man-system-b9da5a82b52b.herokuapp.com/login",
-  // },
+  {
+    title: "MVC Tech Blog",
+    subtitle: "Online Blog Site",
+    description:
+      "A Tech Blog Site using the Model, Controller, and View framework.",
+    image: "./techBlog.gif",
+    link: "https://emk2473.github.io/password-generator/",
+  },
+  {
+    title: "Inventory Management System",
+    subtitle: "IMS",
+    description:
+      "An inventory management database for companies to manage their inventory through users providing live an up-to-date inventory information.",
+    image: "./invWarMan.gif",
+    link: "https://inv-man-system-b9da5a82b52b.herokuapp.com/login",
+  },
   {
     title: "Note Taker",
     subtitle: "Take notes with Express",
@@ -47,22 +47,22 @@ export const projects = [
     image: "./expNoteGIF.gif",
     link: "https://exp-note-taker-app-7afdb91c4244.herokuapp.com/",
   },
-  // {
-  //   title: "J.A.T.E.",
-  //   subtitle: "Just Another Text Editor",
-  //   description:
-  //     "A text editor that runs in the browser. Create notes or code snippets with or without an internet connection so you can reliably retrieve them for later use!",
-  //   image: "./project-4.gif",
-  //   link: "https://j-a-t-e-867088540b22.herokuapp.com/",
-  // },
-  // {
-  //   title: "Calliope's Commonplace",
-  //   subtitle: "An App designed to embody Calliope",
-  //   description:
-  //     "A Group Project designed to introduce API's and CSS Frameworks.",
-  //   image: "./callCommGIF.gif",
-  //   link: "https://emk2473.github.io/calliope-commonplace/",
-  // },
+  {
+    title: "J.A.T.E.",
+    subtitle: "Just Another Text Editor",
+    description:
+      "A text editor that runs in the browser. Create notes or code snippets with or without an internet connection so you can reliably retrieve them for later use!",
+    image: "./jate.gif",
+    link: "https://j-a-t-e-867088540b22.herokuapp.com/",
+  },
+  {
+    title: "Calliope's Commonplace",
+    subtitle: "An App designed to embody Calliope",
+    description:
+      "A Group Project designed to introduce API's and CSS Frameworks.",
+    image: "./callCommGIF.gif",
+    link: "https://emk2473.github.io/calliope-commonplace/",
+  },
 ];
 
 export const testimonials = [
@@ -83,18 +83,20 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "HTML",
-  "CSS",
-  "Git",
   "JavaScript",
   "React",
   "Next.js",
   "Node",
   "Express",
-  "MySQL",,
+  "MySQL",
   "NoSQL",
   "GraphQL",
   "Material UI",
+  "HTML",
+  "CSS",
+  "Git",
+  "XML",
+  "SVG",
 ];
 
 export const working = [
