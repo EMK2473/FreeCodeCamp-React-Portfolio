@@ -63,6 +63,22 @@ export const projects = [
     image: "./callCommGIF.gif",
     link: "https://emk2473.github.io/calliope-commonplace/",
   },
+  {
+    title: "word.",
+    subtitle: "word.",
+    description:
+      "A fun project to practice with React, Tailwind, and RNG.",
+    image: "./word.gif",
+    link: "https://darling-chebakia-cb0515.netlify.app/",
+  },
+  {
+    title: "Professional ReadMe Generator",
+    subtitle: "Readme.md Generator",
+    description:
+      "A web application designed to quickly generate a professional README.md file.",
+    image: "./readmeGenerator.gif",
+    link: "https://darling-chebakia-cb0515.netlify.app/",
+  }
 ];
 
 export const testimonials = [
