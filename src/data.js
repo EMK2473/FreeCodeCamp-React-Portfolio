@@ -1,28 +1,28 @@
 export const projects = [
-  {
-    title: "JavaScript Quiz",
-    subtitle: "JavaScript Quiz",
-    description:
-      "A quix designed to test your knowledge of JavaScript",
-    image: "./jsquiz.gif",
-    link: "https://emk2473.github.io/javascript-quiz/",
-  },
-  {
-    title: "Daily Planner",
-    subtitle: "Sundial Daily Planner",
-    description:
-      "A Daily 9-5 Planner to help manage your time effectively.",
-    image: "./planner.gif",
-    link: "https://emk2473.github.io/daily-planner/",
-  },
-  {
-    title: "5-Day Weather Forecast",
-    subtitle: "5-Day Weather Forecast",
-    description:
-      "A 5-Day Weather Forecast Application.",
-    image: "./5dayGIF.gif",
-    link: "https://emk2473.github.io/weather-forecast/",
-  },
+  // {
+  //   title: "JavaScript Quiz",
+  //   subtitle: "JavaScript Quiz",
+  //   description:
+  //     "A quiz designed to test your knowledge of JavaScript",
+  //   image: "./jsquiz.gif",
+  //   link: "https://emk2473.github.io/javascript-quiz/",
+  // },
+  // {
+  //   title: "Daily Planner",
+  //   subtitle: "Sundial Daily Planner",
+  //   description:
+  //     "A Daily 9-5 Planner to help manage your time effectively.",
+  //   image: "./planner.gif",
+  //   link: "https://emk2473.github.io/daily-planner/",
+  // },
+  // {
+  //   title: "5-Day Weather Forecast",
+  //   subtitle: "5-Day Weather Forecast",
+  //   description:
+  //     "A 5-Day Weather Forecast Application.",
+  //   image: "./5dayGIF.gif",
+  //   link: "https://emk2473.github.io/weather-forecast/",
+  // },
   {
     title: "MVC Tech Blog",
     subtitle: "Online Blog Site",
