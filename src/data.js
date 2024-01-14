@@ -77,7 +77,7 @@ export const projects = [
     description:
       "A web application designed to quickly generate a professional README.md file.",
     image: "./readmeGenerator.gif",
-    link: "https://darling-chebakia-cb0515.netlify.app/",
+    link: "https://superb-dragon-e1dd77.netlify.app/",
   }
 ];
 
