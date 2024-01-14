@@ -29,7 +29,7 @@ export const projects = [
     description:
       "A Tech Blog Site using the Model, Controller, and View framework.",
     image: "./techBlog.gif",
-    link: "https://emk2473.github.io/password-generator/",
+    link: "https://mvc-tech-blogsite-dad8725474ac.herokuapp.com/",
   },
   {
     title: "Inventory Management System",
