@@ -42,8 +42,7 @@ export const projects = [
   {
     title: "Note Taker",
     subtitle: "Take notes with Express",
-    description:
-      "An Application for writing and saving notes using a server.",
+    description: "An Application for writing and saving notes using a server.",
     image: "./expNoteGIF.gif",
     link: "https://exp-note-taker-app-7afdb91c4244.herokuapp.com/",
   },
@@ -66,8 +65,7 @@ export const projects = [
   {
     title: "word.",
     subtitle: "word.",
-    description:
-      "A fun project to practice with React, Tailwind, and RNG.",
+    description: "A fun project to practice with React, Tailwind, and RNG.",
     image: "./word.gif",
     link: "https://darling-chebakia-cb0515.netlify.app/",
   },
@@ -78,23 +76,23 @@ export const projects = [
       "A web application designed to quickly generate a professional README.md file.",
     image: "./readmeGenerator.gif",
     link: "https://superb-dragon-e1dd77.netlify.app/",
-  }
+  },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    `"I strongly recommend Eric for their exceptional mental effort and consistent performance throughout the coding bootcamp."`,
+    image: "https://randomuser.me/api/portraits/men/21.jpg",
+    name: "Jamie DeLong (hopefully)",
+    company: "Instructor",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      `"I endorse Eric's candidacy for employment, aiming to gain firsthand insights into their professional performance, facilitating an informed decision for potential future collaboration."`,
+    image: "https://randomuser.me/api/portraits/men/72.jpg",
+    name: "Eliot Cleveland (hopefully)",
+    company: "Teaching Assistant",
   },
 ];
 
