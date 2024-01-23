@@ -20,7 +20,7 @@ export default function Projects() {
             href={project.link}
             key={project.image}
             className="sm:w-1/2 w-100 p-4 ">
-            <div className="flex relative ring-lime-500 ring-2">
+            <div className="flex relative ring-gray-400 ring-2">
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
